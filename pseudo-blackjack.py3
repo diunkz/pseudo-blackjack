@@ -1,5 +1,5 @@
 import random
-import os
+
 #function to remove cards
 def removeCards(number,deck):
     deck = deck.remove(number)
